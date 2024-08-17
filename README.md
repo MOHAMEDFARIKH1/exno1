@@ -186,7 +186,8 @@ df1 = df[z<3]
 df1
 ```
 
-![image](https://github.com/user-attachments/assets/0635e6c2-8011-4a80-982b-3d5b001a1d9c)
+![image](https://github.com/user-attachments/assets/b27c528a-1ace-4f19-bbca-aaef229ad733)
+
 
 # Result
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
